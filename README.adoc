@@ -1,3 +1,11 @@
+= Batch, Grid, and HPC Computing on OpenShift Workshop Content
+
+This is the home for RHDP content around batch, grid, and high-performance computing (HPC) on OpenShift.
+
+Topics span both *cloud-native* approaches (Kubernetes-native batch APIs, Jobs, CronJobs, and ecosystem operators) 
+and *traditional HPC/HTC* schedulers and runtimes (e.g. Slurm, PBS, HTCondor, Grid Engine) integrated with or 
+migrated to OpenShift—so you can run scientific, analytics, and enterprise batch workloads the way that fits your stack.
+
 === Getting Started
 
 This template is designed to be used as a base for your showroom lab guides.
